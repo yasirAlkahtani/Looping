@@ -1,6 +1,6 @@
 /*
 created by Muhammad Yasir
-Namefile: while.cpp
+Namefile: prima.cpp
 show prima number which smaller then number
 Date: 31.06.2019
 */
